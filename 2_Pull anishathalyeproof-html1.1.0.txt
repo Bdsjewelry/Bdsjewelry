@@ -1,0 +1,38 @@
+2023-01-01T07:03:27.1681877Z ##[group]Pull down action image 'anishathalye/proof-html:1.1.0'
+2023-01-01T07:03:27.1761397Z ##[command]/usr/bin/docker pull anishathalye/proof-html:1.1.0
+2023-01-01T07:03:28.0143086Z 1.1.0: Pulling from anishathalye/proof-html
+2023-01-01T07:03:28.0144524Z 801bfaa63ef2: Pulling fs layer
+2023-01-01T07:03:28.0144784Z ba81004cc3f9: Pulling fs layer
+2023-01-01T07:03:28.0145017Z b516164300bc: Pulling fs layer
+2023-01-01T07:03:28.0145248Z d0535b286e7c: Pulling fs layer
+2023-01-01T07:03:28.0145476Z dc21f12d6926: Pulling fs layer
+2023-01-01T07:03:28.0145696Z ecaecdd8226c: Pulling fs layer
+2023-01-01T07:03:28.0145932Z fea6bee2e0a6: Pulling fs layer
+2023-01-01T07:03:28.0146155Z dc21f12d6926: Waiting
+2023-01-01T07:03:28.0146352Z ecaecdd8226c: Waiting
+2023-01-01T07:03:28.0146575Z fea6bee2e0a6: Waiting
+2023-01-01T07:03:28.0146788Z d0535b286e7c: Waiting
+2023-01-01T07:03:28.2095485Z b516164300bc: Download complete
+2023-01-01T07:03:28.2991425Z ba81004cc3f9: Verifying Checksum
+2023-01-01T07:03:28.2991830Z ba81004cc3f9: Download complete
+2023-01-01T07:03:28.4046742Z 801bfaa63ef2: Verifying Checksum
+2023-01-01T07:03:28.4047239Z 801bfaa63ef2: Download complete
+2023-01-01T07:03:28.5077538Z dc21f12d6926: Verifying Checksum
+2023-01-01T07:03:28.5084465Z dc21f12d6926: Download complete
+2023-01-01T07:03:28.6517408Z 801bfaa63ef2: Pull complete
+2023-01-01T07:03:28.7283496Z fea6bee2e0a6: Verifying Checksum
+2023-01-01T07:03:28.7284208Z fea6bee2e0a6: Download complete
+2023-01-01T07:03:28.7434061Z d0535b286e7c: Verifying Checksum
+2023-01-01T07:03:28.7434851Z d0535b286e7c: Download complete
+2023-01-01T07:03:28.9278977Z ba81004cc3f9: Pull complete
+2023-01-01T07:03:29.0409067Z b516164300bc: Pull complete
+2023-01-01T07:03:29.6887434Z ecaecdd8226c: Verifying Checksum
+2023-01-01T07:03:29.6888131Z ecaecdd8226c: Download complete
+2023-01-01T07:03:30.3576473Z d0535b286e7c: Pull complete
+2023-01-01T07:03:30.4173300Z dc21f12d6926: Pull complete
+2023-01-01T07:03:36.1710067Z ecaecdd8226c: Pull complete
+2023-01-01T07:03:36.2198169Z fea6bee2e0a6: Pull complete
+2023-01-01T07:03:36.2262384Z Digest: sha256:f894be74a06a806442c8dbc51cfb26d48e46c5cfa2d85777ae9fa41cedf9cdb4
+2023-01-01T07:03:36.2270994Z Status: Downloaded newer image for anishathalye/proof-html:1.1.0
+2023-01-01T07:03:36.2289704Z docker.io/anishathalye/proof-html:1.1.0
+2023-01-01T07:03:36.2299884Z ##[endgroup]
