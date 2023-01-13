@@ -1,0 +1,35 @@
+2023-01-01T07:03:25.9933509Z Current runner version: '2.300.2'
+2023-01-01T07:03:25.9962827Z ##[group]Operating System
+2023-01-01T07:03:25.9963518Z Ubuntu
+2023-01-01T07:03:25.9963840Z 20.04.5
+2023-01-01T07:03:25.9964080Z LTS
+2023-01-01T07:03:25.9964384Z ##[endgroup]
+2023-01-01T07:03:25.9964708Z ##[group]Runner Image
+2023-01-01T07:03:25.9965056Z Image: ubuntu-20.04
+2023-01-01T07:03:25.9965395Z Version: 20221212.2
+2023-01-01T07:03:25.9965930Z Included Software: https://github.com/actions/runner-images/blob/ubuntu20/20221212.2/images/linux/Ubuntu2004-Readme.md
+2023-01-01T07:03:25.9966526Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu20%2F20221212.2
+2023-01-01T07:03:25.9966971Z ##[endgroup]
+2023-01-01T07:03:25.9967359Z ##[group]Runner Image Provisioner
+2023-01-01T07:03:25.9967703Z 2.0.91.1
+2023-01-01T07:03:25.9967951Z ##[endgroup]
+2023-01-01T07:03:25.9968927Z ##[group]GITHUB_TOKEN Permissions
+2023-01-01T07:03:25.9969580Z Actions: write
+2023-01-01T07:03:25.9969905Z Checks: write
+2023-01-01T07:03:25.9970177Z Contents: write
+2023-01-01T07:03:25.9970791Z Deployments: write
+2023-01-01T07:03:25.9971085Z Discussions: write
+2023-01-01T07:03:25.9971419Z Issues: write
+2023-01-01T07:03:25.9971738Z Metadata: read
+2023-01-01T07:03:25.9972011Z Packages: write
+2023-01-01T07:03:25.9972366Z Pages: write
+2023-01-01T07:03:25.9972693Z PullRequests: write
+2023-01-01T07:03:25.9973021Z RepositoryProjects: write
+2023-01-01T07:03:25.9973385Z SecurityEvents: write
+2023-01-01T07:03:25.9973727Z Statuses: write
+2023-01-01T07:03:25.9974026Z ##[endgroup]
+2023-01-01T07:03:25.9977857Z Secret source: Actions
+2023-01-01T07:03:25.9978383Z Prepare workflow directory
+2023-01-01T07:03:26.0838688Z Prepare all required actions
+2023-01-01T07:03:26.1031025Z Getting action download info
+2023-01-01T07:03:26.4506944Z Download action repository 'anishathalye/proof-html@v1.1.0' (SHA:47a787591515a207d6fc8ef13e016ac42cb877c8)
