@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Auto Assign](https://github.com/bds-jewelry/demo-repository/actions/workflows/auto-assign.yml/badge.svg?branch=add-auto-assign-workflow&event=workflow_run)](https://github.com/bds-jewelry/demo-repository/actions/workflows/auto-assign.yml)
+[![Auto Assign](run)](https://github.com/bds-jewelry/demo-repository/actions/workflows/auto-assign.yml
+I’m currently learning ..
